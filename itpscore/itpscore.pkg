@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'itpscore': Iterative Propensity Score Logistic Regression Model Search Procedure Use itpscore With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F itpscore.ado
+F itpscore.sthlp

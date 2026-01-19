@@ -1,6 +1,8 @@
 # itpscore
 Iterative Propensity Score Logistic Regression Model Search Procedure Use itpscore With STATA 19
 
+https://www.youtube.com/watch?v=PJa3WnmhHpY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
